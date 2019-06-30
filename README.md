@@ -1,4 +1,4 @@
-# catchiness-quantified
+# Music-Maker
 Python project that identifies music and lyric patterns in chart topping songs
 
 The project consists of two portions: lyric analysis and music analysis
