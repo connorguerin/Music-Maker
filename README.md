@@ -1,2 +1,2 @@
 # catchiness-quantified
-Python project that identifies patterns in chart topping songs
+Python project that identifies music and lyric patterns in chart topping songs
